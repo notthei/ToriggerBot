@@ -1,1 +1,1 @@
-valorantのトリガーボット
+# valorantのトリガーボット
